@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/github/followers/alkxyly?style=social
+![GitHub followers](https://img.shields.io/github/followers/alkxyly?style=social)
 
 
 <!--
