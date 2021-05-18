@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin Badge](https://www.linkedin.com/in/alkxyly-samyr-8a75554a/)
 
 <!--
 **alkxyly/alkxyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
