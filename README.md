@@ -4,6 +4,10 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=alkxyly&color=00cf00)
 
 <br/>
+![Metrics](https://metrics.lecoq.io/alkxyly?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+<br/>
+
+<br/>
   <a href="https://github.com/alkxyly">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alkxyly&show_icons=true&theme=gotham&&count_private=true" alt="Alkxyly" />
 </a>
@@ -16,7 +20,7 @@
 
 
 
-![Metrics](https://metrics.lecoq.io/alkxyly?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+
 
 
 
