@@ -14,12 +14,11 @@
 
 
 
-<details>
-  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+
 
 ![Metrics](https://metrics.lecoq.io/alkxyly?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
 
-</details>
+
 
 ------------
 <p align="center">Last refresh: <b>Tuesday, May 18th 2021, 3:25:29 pm UTC</b>. </p>
