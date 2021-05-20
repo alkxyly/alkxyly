@@ -3,6 +3,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/alkxyly?style=social)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=alkxyly&color=00cf00)
 
+<br/>
+<a href="https://github.com/alkxyly">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alkxyly&show_icons=true&theme=gotham&&count_private=true" alt="Alkxyly" />
+</a>
+
+
 <!--
 **alkxyly/alkxyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
