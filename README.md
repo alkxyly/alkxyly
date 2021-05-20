@@ -8,6 +8,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alkxyly&show_icons=true&theme=gotham&&count_private=true" alt="Alkxyly" />
 </a>
 
+<a href="https://github.com/alkxyly"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkxyly&show_icons=true&theme=gotham&layout=compact">
+</a>
 
 <!--
 **alkxyly/alkxyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
