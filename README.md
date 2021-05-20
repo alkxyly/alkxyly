@@ -3,9 +3,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/alkxyly?style=social)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=alkxyly&color=00cf00)
 
-<br/>
+
 ![Metrics](https://metrics.lecoq.io/alkxyly?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
-<br/>
+
 
 <br/>
   <a href="https://github.com/alkxyly">
