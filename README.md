@@ -7,7 +7,7 @@
 <a href="https://github.com/alkxyly">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alkxyly&show_icons=true&theme=gotham&&count_private=true" alt="Alkxyly" />
 </a>
-
+</br>
 <a href="https://github.com/alkxyly"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkxyly&show_icons=true&theme=gotham&layout=compact">
 </a>
