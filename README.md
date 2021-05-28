@@ -29,11 +29,8 @@ Sou desenvolvedor, gosto de estudar e busco a cada dia desenvolver as minhas hab
 
 ![Metrics](https://metrics.lecoq.io/alkxyly?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
 
-- uses: Platane/snk@master
-  with:
-    github_user_name: platane
-    gif_out_path: dist/github-contribution-grid-snake.gif
-    svg_out_path: dist/github-contribution-grid-snake.svg
+
+
 
 
 
