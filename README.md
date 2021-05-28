@@ -3,11 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/alkxyly?style=social)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=alkxyly&color=00cf00)
 
-- uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: alkxyly
-          svg_out_path: dist/github-contribution-grid-snake.svg
+
 
 
 ### Sobre  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
