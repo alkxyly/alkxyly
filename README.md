@@ -27,9 +27,8 @@ Sou desenvolvedor, gosto de estudar e busco a cada dia desenvolver as minhas hab
 </a>
 
 
-
-
 ![Metrics](https://metrics.lecoq.io/alkxyly?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+
 
 
 
