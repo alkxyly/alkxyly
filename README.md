@@ -12,6 +12,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/alkxyly?style=social)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=alkxyly&color=00cf00)
 
+### Meus Posts!
+1. [Entendendo o Token JWT](https://alkxyly.medium.com/entendendo-o-jwt-fa4a24c958c7)
+2. [Entendendo e Utilizando Profiles em aplicações Spring Boot](https://alkxyly.medium.com/entendendo-e-utilizando-profiles-em-aplica%C3%A7%C3%B5es-spring-boot-879829c63639)
+
 <br/>
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
@@ -19,7 +23,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Figma.png"></code>
 <code><img height="35" width="35" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png"></code>
 
 <br/>
