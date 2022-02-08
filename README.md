@@ -34,12 +34,13 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 
 <li> 💻 Sou um Developer Backend e me aprimorando nas stacks Mobile e Front-End </li>
-<li> 🧠 Atualmente Trabalho com Java </li>
+<li> 🧠 Atualmente Trabalho com Java e estudo Kotlin</li>
 <li> 😍 Amo Música, Futebol e Games </li>
 
 ### Meus Posts!
 1. [Entendendo o Token JWT](https://alkxyly.medium.com/entendendo-o-jwt-fa4a24c958c7)
 2. [Entendendo e Utilizando Profiles em aplicações Spring Boot](https://alkxyly.medium.com/entendendo-e-utilizando-profiles-em-aplica%C3%A7%C3%B5es-spring-boot-879829c63639)
+3. [Spring Statemachine utilizando Kotlin](https://alkxyly.medium.com/spring-statemachine-utilizando-kotlin-54c1f853a74b)
 
 <br/>
 <br/>
