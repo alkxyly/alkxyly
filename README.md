@@ -4,7 +4,7 @@
 	
 </div>
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alkxyly&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=FCC1FF&fire=A704DD" width="100%" style="max-width:100%;"/>
 
 
 <p align="center">
@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
-
 <p align="center"> <a href="https://github.com/alkxyly/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=alkxyly&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdircezar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <h1> Oi eu sou o Alkxyly Samyr. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
